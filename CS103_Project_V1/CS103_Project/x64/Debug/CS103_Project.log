@@ -1,0 +1,8 @@
+﻿  CS103_Project.cpp
+  FileHandling.cpp
+  School.cpp
+  SystemFunction.cpp
+  UserLogin.cpp
+C:\Users\Taih\Documents\YooBee2023-2024-backup\CS103_Integrated Studio I\CS103_Project\CS103_Project\CS103_Project_V1\CS103_Project\UserLogin.cpp(13,8): warning C4101: 'key': unreferenced local variable
+  Generating Code...
+  CS103_Project.vcxproj -> C:\Users\Taih\Documents\YooBee2023-2024-backup\CS103_Integrated Studio I\CS103_Project\CS103_Project\CS103_Project_V1\x64\Debug\CS103_Project.exe
