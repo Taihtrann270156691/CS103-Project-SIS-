@@ -6,5 +6,5 @@ Happy testing! :D
 
 
 
-Username: amdin
+Username: admin
 Password: admin1234
